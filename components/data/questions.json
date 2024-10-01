@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "question": "Mi a neve Harry születésének helyszínének?",
+      "answers": [
+        { "text": "Godric's Hollow", "isCorrect": true },
+        { "text": "Little Hangleton", "isCorrect": false },
+        { "text": "Spinner's End", "isCorrect": false },
+        { "text": "Privet Drive", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Milyen patrónust idézett meg Hermione?",
+      "answers": [
+        { "text": "Nyúl", "isCorrect": true },
+        { "text": "Vidra", "isCorrect": false },
+        { "text": "Ló", "isCorrect": false },
+        { "text": "Szarvas", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Mi volt Dobby első szavai Harryhez?",
+      "answers": [
+        { "text": "Dobby nem szabad!", "isCorrect": false },
+        { "text": "Dobby szabad manó!", "isCorrect": false },
+        { "text": "Harry Potter úr!", "isCorrect": true },
+        { "text": "Jaj, Dobby!", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Melyik tantárgyat tanította Gilderoy Lockhart?",
+      "answers": [
+        { "text": "Bájitaltan", "isCorrect": false },
+        { "text": "Sötét varázslatok kivédése", "isCorrect": true },
+        { "text": "Legendás lények gondozása", "isCorrect": false },
+        { "text": "Átváltoztatástan", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Mi a neve Ron patkányának?",
+      "answers": [
+        { "text": "Crookshanks", "isCorrect": false },
+        { "text": "Scabbers", "isCorrect": true },
+        { "text": "Hedwig", "isCorrect": false },
+        { "text": "Norbert", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Melyik ház nyerte a Kviddics kupát Harry harmadik évében?",
+      "answers": [
+        { "text": "Griffendél", "isCorrect": true },
+        { "text": "Mardekár", "isCorrect": false },
+        { "text": "Hollóhát", "isCorrect": false },
+        { "text": "Hugrabug", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Mit látott Harry, amikor először nézett bele a Merengőbe?",
+      "answers": [
+        { "text": "Szörnyű jövőt", "isCorrect": false },
+        { "text": "A szüleit", "isCorrect": false },
+        { "text": "Egy tárgyalást", "isCorrect": true },
+        { "text": "A Roxfort csatáját", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Mi a neve a varázslatnak, amivel tárgyakat lehet lebegtetni?",
+      "answers": [
+        { "text": "Expelliarmus", "isCorrect": false },
+        { "text": "Lumos", "isCorrect": false },
+        { "text": "Wingardium Leviosa", "isCorrect": true },
+        { "text": "Alohomora", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Ki volt a harmadik Trimágus bajnok Harry mellett?",
+      "answers": [
+        { "text": "Fleur Delacour", "isCorrect": true },
+        { "text": "Cedric Diggory", "isCorrect": false },
+        { "text": "Viktor Krum", "isCorrect": false },
+        { "text": "Luna Lovegood", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Mi volt Voldemort igazi neve?",
+      "answers": [
+        { "text": "Tom Marvolo Riddle", "isCorrect": true },
+        { "text": "Gellert Grindelwald", "isCorrect": false },
+        { "text": "Severus Snape", "isCorrect": false },
+        { "text": "Lucius Malfoy", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Melyik házból származott Voldemort?",
+      "answers": [
+        { "text": "Griffendél", "isCorrect": false },
+        { "text": "Hugrabug", "isCorrect": false },
+        { "text": "Hollóhát", "isCorrect": false },
+        { "text": "Mardekár", "isCorrect": true }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Ki volt a Sötét varázslatok kivédése tanár Harry hatodik évében?",
+      "answers": [
+        { "text": "Severus Snape", "isCorrect": true },
+        { "text": "Remus Lupin", "isCorrect": false },
+        { "text": "Alastor 'Rémes' Mordon", "isCorrect": false },
+        { "text": "Gilderoy Lockhart", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Mi a neve Hagrid óriás pókának?",
+      "answers": [
+        { "text": "Norbert", "isCorrect": false },
+        { "text": "Aragog", "isCorrect": true },
+        { "text": "Fang", "isCorrect": false },
+        { "text": "Fluffy", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Mi a neve az időnyerő varázslatnak, amit Hermione használt?",
+      "answers": [
+        { "text": "Time-Turner", "isCorrect": true },
+        { "text": "Chronos Charm", "isCorrect": false },
+        { "text": "Horologium Spell", "isCorrect": false },
+        { "text": "Tempus Temporis", "isCorrect": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Ki volt az, aki megölte Dumbledore-t?",
+      "answers": [
+        { "text": "Bellatrix Lestrange", "isCorrect": false },
+        { "text": "Draco Malfoy", "isCorrect": false },
+        { "text": "Severus Snape", "isCorrect": true },
+        { "text": "Voldemort", "isCorrect": false }
+      ]
+    }
+  ]
+  
