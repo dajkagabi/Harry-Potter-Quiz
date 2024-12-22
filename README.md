@@ -2,13 +2,7 @@
 
 ### A Harry-Potter-Quiz egy interaktív kvíz alkalmazás, amely a Harry Potter világához kapcsolódó kérdéseket tartalmaz. Az alkalmazás célja, hogy szórakoztató módon tesztelje a felhasználók tudását a Harry Potter filmekről. A kérdések igaz-hamis formátumban vannak, és a felhasználók azonnal visszajelzést kapnak a válaszaikra. 
 
-## Projekt inicializálás:
 
-1. ```npx create-expo-app --template blank```
-2. ```npm install expo@51.0.35```
-3. ```npm install @react-navigation/native```
-4. ```npm install react-native-screens react-native-safe-area-context```
-5. ```npm install @react-navigation/native-stack```
 
 ![kezdőlap](https://github.com/user-attachments/assets/48d18815-74f3-4335-be87-6e6ec8e18048)
 
